@@ -1,6 +1,6 @@
 var React= require('react');
 var {Link, IndexLink} = require ('react-router');
-
+ 
 var NavComp = (props)=> {
   return(
     <div>
